@@ -28,11 +28,3 @@
 1. 先看 [增长实验框架](https://github.com/The-AlexLiu/Growth-Experiment-Framework)，了解我如何拆解业务增长问题。
 2. 再看 [内容结构评分系统](https://github.com/The-AlexLiu/Creative-Content-Scoring-System)，了解我如何把主观素材判断量化。
 3. 最后看 [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)，了解我如何把 AI 内容生产落地到真实运营流程。
-
-## 后续会补充
-
-- Google Ads / Meta Ads 数据分析项目
-- GMC / Feed 数据处理项目
-- Shopify 独立站运营项目
-- 广告日报 / 周报自动化项目
-- 素材 Brief 与达人复拍管理项目
