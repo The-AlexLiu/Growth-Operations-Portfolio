@@ -6,13 +6,35 @@
 
 ## 项目目录
 
-| 项目 | 方向 | 解决的问题 | 项目入口 |
-|---|---|---|---|
-| AI 小红书内容系统 | AI 运营 / 内容自动化 | 从选题、内容生成、发布流程到数据复盘，搭建可复用的内容运营系统 | [查看项目](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) |
-| 内容结构评分系统 | 内容评估 / 广告素材筛选 | 用 Hook、证言、卖点、CTA 量化短视频和广告素材质量 | [查看项目](https://github.com/The-AlexLiu/Creative-Content-Scoring-System) |
-| 落地页内容诊断方法 | 落地页诊断 / 投放承接 / 用户任务 | 从广告入口、首屏表达、信任证据到转化路径，沉淀一套可复用的页面诊断方法 | [查看项目](https://github.com/The-AlexLiu/Landing-Page-Diagnosis-Playbook) |
-| Meta Ads 账户结构方法 | 广告投放 / 账户结构 / 冷启动放量 | 从冷启动、素材测试、主力放量到再营销和大促拆分，沉淀一套 Meta Ads 电商账户结构判断方法 | [查看项目](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook) |
-| 增长实验框架 | 增长策略 / 新品验证 | 将新品或新业务增长问题拆解为假设、实验、指标和复盘机制 | [查看项目](https://github.com/The-AlexLiu/Growth-Experiment-Framework) |
+### 增长实验框架
+
+- 方向：增长策略 / 新品验证
+- 解决的问题：把新品或新业务增长问题拆成假设、实验、指标和复盘机制。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/Growth-Experiment-Framework)
+
+### 内容结构评分系统
+
+- 方向：内容评估 / 广告素材筛选
+- 解决的问题：用 Hook、证言、卖点、CTA 等维度量化短视频和广告素材质量。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/Creative-Content-Scoring-System)
+
+### 落地页内容诊断方法
+
+- 方向：落地页诊断 / 投放承接 / 用户任务
+- 解决的问题：判断广告入口、首屏表达、信任证据和转化路径是否接住用户任务。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/Landing-Page-Diagnosis-Playbook)
+
+### Meta Ads 账户结构方法
+
+- 方向：广告投放 / 账户结构 / 冷启动放量
+- 解决的问题：从冷启动、素材测试、主力放量到再营销和大促拆分，沉淀 Meta Ads 电商账户结构判断方法。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook)
+
+### AI 小红书内容系统
+
+- 方向：AI 运营 / 内容自动化
+- 解决的问题：从选题、内容生成、发布流程到数据复盘，搭建可复用的内容运营系统。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)
 
 ## 能力标签
 
