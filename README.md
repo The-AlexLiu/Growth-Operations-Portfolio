@@ -30,6 +30,12 @@
 - 解决的问题：从冷启动、素材测试、主力放量到再营销和大促拆分，沉淀 Meta Ads 电商账户结构判断方法。
 - 项目入口：[查看项目](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook)
 
+### Google Ads 账户结构方法
+
+- 方向：搜索广告 / 商品投放 / PMax 放量
+- 解决的问题：从 Search、Shopping、Performance Max 到 Demand Gen，沉淀 Google Ads 电商账户冷启动和放量结构判断方法。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/Google-Ads-Account-Structure-Playbook)
+
 ### AI 小红书内容系统
 
 - 方向：AI 运营 / 内容自动化
@@ -44,4 +50,5 @@
 2. 再看 [内容结构评分系统](https://github.com/The-AlexLiu/Creative-Content-Scoring-System)，了解我如何把主观素材判断量化。
 3. 然后看 [落地页内容诊断方法](https://github.com/The-AlexLiu/Landing-Page-Diagnosis-Playbook)，了解我如何把投放入口、页面内容和用户任务串起来判断转化问题。
 4. 接着看 [Meta Ads 账户结构方法](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook)，了解我如何把素材测试、学习信号和放量结构串成投放系统。
-5. 最后看 [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)，了解我如何把 AI 内容生产落地到真实运营流程。
+5. 再看 [Google Ads 账户结构方法](https://github.com/The-AlexLiu/Google-Ads-Account-Structure-Playbook)，了解我如何把搜索意图、商品 Feed、PMax 和转化价值串成投放系统。
+6. 最后看 [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)，了解我如何把 AI 内容生产落地到真实运营流程。
