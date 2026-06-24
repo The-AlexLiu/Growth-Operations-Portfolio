@@ -11,6 +11,7 @@
 | AI 小红书内容系统 | AI 运营 / 内容自动化 | 从选题、内容生成、发布流程到数据复盘，搭建可复用的内容运营系统 | [查看项目](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) |
 | 内容结构评分系统 | 内容评估 / 广告素材筛选 | 用 Hook、证言、卖点、CTA 量化短视频和广告素材质量 | [查看项目](https://github.com/The-AlexLiu/Creative-Content-Scoring-System) |
 | 落地页内容诊断方法 | 落地页诊断 / 投放承接 / 用户任务 | 从广告入口、首屏表达、信任证据到转化路径，沉淀一套可复用的页面诊断方法 | [查看项目](https://github.com/The-AlexLiu/Landing-Page-Diagnosis-Playbook) |
+| Meta Ads 账户结构方法 | 广告投放 / 账户结构 / 冷启动放量 | 从冷启动、素材测试、主力放量到再营销和大促拆分，沉淀一套 Meta Ads 电商账户结构判断方法 | [查看项目](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook) |
 | 增长实验框架 | 增长策略 / 新品验证 | 将新品或新业务增长问题拆解为假设、实验、指标和复盘机制 | [查看项目](https://github.com/The-AlexLiu/Growth-Experiment-Framework) |
 
 ## 能力标签
@@ -18,6 +19,7 @@
 - 用户增长与内容策略
 - AI 运营与营销自动化
 - 广告素材评估与测试
+- Meta Ads 账户结构与投放冷启动
 - 落地页内容诊断与转化承接
 - 增长实验设计与复盘
 - 数据分析与指标判断
@@ -30,4 +32,5 @@
 1. 先看 [增长实验框架](https://github.com/The-AlexLiu/Growth-Experiment-Framework)，了解我如何拆解业务增长问题。
 2. 再看 [内容结构评分系统](https://github.com/The-AlexLiu/Creative-Content-Scoring-System)，了解我如何把主观素材判断量化。
 3. 然后看 [落地页内容诊断方法](https://github.com/The-AlexLiu/Landing-Page-Diagnosis-Playbook)，了解我如何把投放入口、页面内容和用户任务串起来判断转化问题。
-4. 最后看 [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)，了解我如何把 AI 内容生产落地到真实运营流程。
+4. 接着看 [Meta Ads 账户结构方法](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook)，了解我如何把素材测试、学习信号和放量结构串成投放系统。
+5. 最后看 [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)，了解我如何把 AI 内容生产落地到真实运营流程。
