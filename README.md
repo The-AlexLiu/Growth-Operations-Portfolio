@@ -42,6 +42,12 @@
 - 解决的问题：从选题、内容生成、发布流程到数据复盘，搭建可复用的内容运营系统。
 - 项目入口：[查看项目](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)
 
+### Job Launcher
+
+- 方向：求职自动化 / 桌面工具 / 浏览器自动化
+- 解决的问题：将职位筛选、自动开聊、已读不回提醒、职位记录和本地复盘沉淀为可配置的求职执行工具。
+- 项目入口：[查看项目](https://github.com/The-AlexLiu/Job-Launcher)
+
 ## 作品集使用方式
 
 如果你想快速了解我的项目，可以按这个顺序查看：
@@ -52,3 +58,4 @@
 4. 接着看 [Meta Ads 账户结构方法](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook)，了解我如何把素材测试、学习信号和放量结构串成投放系统。
 5. 再看 [Google Ads 账户结构方法](https://github.com/The-AlexLiu/Google-Ads-Account-Structure-Playbook)，了解我如何把搜索意图、商品 Feed、PMax 和转化价值串成投放系统。
 6. 最后看 [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)，了解我如何把 AI 内容生产落地到真实运营流程。
+7. 也可以看 [Job Launcher](https://github.com/The-AlexLiu/Job-Launcher)，了解我如何把高频重复的求职动作产品化为桌面自动化工具。
