@@ -28,15 +28,3 @@
 4. 接着看 [素材衰退管理方法](https://github.com/The-AlexLiu/Creative-Fatigue-Management-Playbook)，了解我如何管理素材生命周期和爆款依赖风险。
 5. 再看 [Meta Ads 账户结构方法](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook) 和 [Google Ads 账户结构方法](https://github.com/The-AlexLiu/Google-Ads-Account-Structure-Playbook)，了解我如何把账户结构、素材测试和业务指标连接成投放系统。
 6. 最后看 [ContentRadar](https://github.com/The-AlexLiu/ContentRadar)、[AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) 和 [Job Launcher](https://github.com/The-AlexLiu/Job-Launcher)，了解我如何把高频运营动作产品化、工具化。
-
-## 统一口径
-
-这些项目里，我尽量保持几个统一原则：
-
-| 原则 | 说明 |
-|---|---|
-| 先定义问题 | 不直接给动作，先说明业务问题是什么 |
-| 再拆判断框架 | 把模糊判断拆成维度、指标、字段或流程 |
-| 最后落到执行 | 给出表格、清单、模板、脚本或具体操作路径 |
-| 不神化工具 | AI、自动化和脚本只是辅助，核心仍然是业务判断 |
-| 不追求短期标签 | 项目不依赖年份命名，尽量沉淀能长期复用的方法 |
