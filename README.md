@@ -18,6 +18,7 @@
 | Meta Ads 账户结构方法 | 广告投放 / 账户结构 | 从冷启动、素材测试、主力放量到再营销和大促拆分，沉淀 Meta Ads 电商账户结构判断方法 | [查看项目](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook) |
 | Google Ads 账户结构方法 | 搜索广告 / 商品投放 | 从 Search、Shopping、Performance Max 到 Demand Gen，沉淀 Google Ads 电商账户冷启动和放量结构判断方法 | [查看项目](https://github.com/The-AlexLiu/Google-Ads-Account-Structure-Playbook) |
 | GA4 双平台数据读取 Skill | 数据分析 / AI 自动化 | 将 GA4 Data API、只读 Reader API、凭据隔离和分析口径封装为可安装到飞书 Aily 与 WorkBuddy 的团队读数能力 | [项目仓库](https://github.com/The-AlexLiu/GA4-Reader-Skill) · [下载安装包](https://github.com/The-AlexLiu/GA4-Reader-Skill/releases/latest) |
+| GSC 双平台数据读取 Skill | SEO 数据 / AI 自动化 | 将 Search Analytics、Sitemap、URL Inspection、只读 Reader API 与凭据隔离封装为可安装到飞书 Aily 与 WorkBuddy 的团队 SEO 数据能力 | [项目仓库](https://github.com/The-AlexLiu/Google-Search-Console-Reader-Skill) · [下载安装包](https://github.com/The-AlexLiu/Google-Search-Console-Reader-Skill/releases/latest) |
 | ContentRadar | 内容研究 / 竞品分析 | 采集公开内容，用于选题研究、评论洞察、竞品内容跟踪和素材方向判断 | [查看项目](https://github.com/The-AlexLiu/ContentRadar) |
 | AI 小红书内容系统 | AI 运营 / 内容自动化 | 将选题、素材采集、封面生成、文案创作和发布准备沉淀为内容生产流程 | [查看项目](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) |
 | Job Launcher | 流程自动化 / 桌面工具 | 将职位筛选、辅助开聊、已读不回提醒和求职记录沉淀为本地自动化流程 | [查看项目](https://github.com/The-AlexLiu/Job-Launcher) |
@@ -35,4 +36,5 @@
 7. 接着看 [素材衰退管理方法](https://github.com/The-AlexLiu/Creative-Fatigue-Management-Playbook)，了解我如何管理素材生命周期和爆款依赖风险。
 8. 再看 [Meta Ads 账户结构方法](https://github.com/The-AlexLiu/Meta-Ads-Account-Structure-Playbook) 和 [Google Ads 账户结构方法](https://github.com/The-AlexLiu/Google-Ads-Account-Structure-Playbook)，了解我如何把账户结构、素材测试和业务指标连接成投放系统。
 9. 接着看 [GA4 双平台数据读取 Skill](https://github.com/The-AlexLiu/GA4-Reader-Skill)，了解我如何把数据口径、API 权限、凭据隔离和 AI 工作台安装方式连接成团队数据能力。
-10. 最后看 [ContentRadar](https://github.com/The-AlexLiu/ContentRadar)、[AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) 和 [Job Launcher](https://github.com/The-AlexLiu/Job-Launcher)，了解我如何把高频运营动作产品化、工具化。
+10. 再看 [GSC 双平台数据读取 Skill](https://github.com/The-AlexLiu/Google-Search-Console-Reader-Skill)，了解我如何把自然搜索数据、索引诊断、只读 API 和双平台 Skill 连接成团队 SEO 数据能力。
+11. 最后看 [ContentRadar](https://github.com/The-AlexLiu/ContentRadar)、[AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) 和 [Job Launcher](https://github.com/The-AlexLiu/Job-Launcher)，了解我如何把高频运营动作产品化、工具化。
